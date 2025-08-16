@@ -1,6 +1,3 @@
-## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
 # Twitter Style Login Page
 
 This is a **practice project** where I created a simple login page inspired by **Twitter’s login UI**.  
