@@ -18,5 +18,3 @@ The goal was to practice **HTML & CSS** and improve frontend skills.
 - **CSS3**
 
 ---
-
-## 📂 Project Structure
