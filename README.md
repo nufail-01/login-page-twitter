@@ -1,4 +1,4 @@
-# Twitter Style Login Page (Practice Project)
+# Twitter Style Login Page
 
 This is a **practice project** where I created a simple login page inspired by **Twitter’s login UI**.  
 The goal was to practice **HTML & CSS** and improve frontend skills.
