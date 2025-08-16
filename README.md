@@ -16,7 +16,7 @@ The goal was to practice **HTML & CSS** and improve frontend skills.
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-# Twitter Style Login Page (Practice Project)
+# Twitter Style Login Page
 
 This is a **practice project** where I created a simple login page inspired by **Twitter’s login UI**.  
 The goal was to practice **HTML & CSS** and improve frontend skills.
